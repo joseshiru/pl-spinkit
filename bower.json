@@ -1,0 +1,31 @@
+{
+  "name": "pl-spintkit",
+  "license": "MIT",
+  "authors": [
+    "Jose Zuniga <jose_zuma@hotmail.com>"
+  ],
+  "description": "Loading mask plugin for jQuery.",
+  "homepage": "https://github.com/joseshiru/pl-spinkit",
+  "keywords": [
+    "jquery-plugin",
+    "jquery",
+    "loading",
+    "spinner",
+    "mask",
+    "plugins",
+    "spintkit"
+  ],
+  "main": "src/js/pl-spintkit.js",
+  "dependencies": {
+    "jquery": ">=1.5.1",
+    "p-loading": ">=1.2.0"
+  },
+  "ignore": [
+    "npm-debug.log",
+    "bower_components",
+    "node_modules",
+    "**/.*",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,12 @@
+/*
+ *  pl-fontawesome - v0.5.0
+ *  fontawesome icons for P-loading.
+ *  https://github.com/joseshiru/pl-fontawesome
+ *
+ *  Made by Jose Zuniga
+ *  Under MIT License
+ */
+.pl-spinkit-spinner {
+    top: calc(50%);
+    position: relative;
+}
