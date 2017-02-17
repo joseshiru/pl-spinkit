@@ -1,1 +1,1 @@
-.pl-spinkit-spinner{top:calc(50%);position:relative}
+.pl-spinkit-spinner{position:absolute;top:50%;margin:0 auto;left:0;transform:translateY(-50%);right:0}

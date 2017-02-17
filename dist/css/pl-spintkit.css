@@ -1,12 +1,16 @@
 /*
- *  pl-fontawesome - v0.5.0
- *  fontawesome icons for P-loading.
- *  https://github.com/joseshiru/pl-fontawesome
+ *  pl-spintkit - v0.5.0
+ *  Spintkit spinners for P-loading.
+ *  https://github.com/joseshiru/pl-spinkit
  *
  *  Made by Jose Zuniga
  *  Under MIT License
  */
 .pl-spinkit-spinner {
-    top: calc(50%);
-    position: relative;
+	position: absolute;
+    top: 50%;
+    margin: 0 auto;
+    left: 0;
+    transform: translateY(-50%);
+    right: 0;
 }
