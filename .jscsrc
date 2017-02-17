@@ -1,7 +1,7 @@
 {
   "preset": "jquery",
   "requireCapitalizedComments": null,
-  "maximumLineLength": 150,
+  "maximumLineLength": 190,
   "validateLineBreaks": false,
   "excludeFiles": [ "node_modules" ]
 }
