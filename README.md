@@ -1,7 +1,15 @@
 # PL-Spinkit [![Build Status](https://travis-ci.org/joseshiru/pl-spinkit.svg?branch=master)](https://travis-ci.org/joseshiru/pl-spinkit)
 
 
-PL-Spinkit is a [p-loading](https://github.com/joseshiru/p-loading) add-on that allows you to use Spinkit spinners.
+Are you thinking to use the awesome [Spinkit](https://github.com/tobiasahlin/SpinKit/) but you don't want to create all the logic to hide, show and destroy the spinners? 
+
+Then, you're in the right place:
+
+PL-Spinkit is a [p-loading](https://github.com/joseshiru/p-loading) add-on that allows you to use the Spinkit spinners as a jQuery plugin. You'll be able to display the spinner you want in the HTML element you want, by only using javascript.
+
+Something like this will be way how you will use it: 
+
+    $('#YOUR_ELEMEMT').ploading({action: 'show'});
 
 > You can show and hide them and to use all the nice features of
 > p-loading plugin
