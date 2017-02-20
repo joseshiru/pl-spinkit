@@ -14,7 +14,7 @@ PL-Spinkit is a [p-loading](https://github.com/joseshiru/p-loading) add-on that 
 
 ### Demo
 
-[https://jsfiddle.net/bupph5v6/3/](https://jsfiddle.net/bupph5v6/3/)
+[https://jsfiddle.net/bupph5v6/5/](https://jsfiddle.net/bupph5v6/5/)
 
 ### Documentation
 [https://github.com/joseshiru/pl-spinkit/blob/master/DOCUMENTATION.md](https://github.com/joseshiru/pl-spinkit/blob/master/DOCUMENTATION.md)
