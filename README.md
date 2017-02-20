@@ -7,7 +7,7 @@ Then, you're in the right place:
 
 PL-Spinkit is a [p-loading](https://github.com/joseshiru/p-loading) add-on that allows you to use the Spinkit spinners as a jQuery plugin. You'll be able to display the spinner you want in the HTML element you want, by only using javascript.
 
-Something like this will be way how you will use it: 
+Something like this will be the way how you will use it: 
 
     $('#YOUR_ELEMEMT').ploading({action: 'show'});
 
