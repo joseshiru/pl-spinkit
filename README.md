@@ -1,4 +1,5 @@
-# PL-Spinkit [![Build Status](https://travis-ci.org/joseshiru/pl-spinkit.svg?branch=master)](https://travis-ci.org/joseshiru/p-loading.svg?branch=master)
+# PL-Spinkit [![Build Status](https://travis-ci.org/joseshiru/pl-spinkit.svg?branch=master)](https://travis-ci.org/joseshiru/pl-spinkit)
+
 
 PL-Spinkit is a [p-loading](https://github.com/joseshiru/p-loading) add-on that allows you to use Spinkit spinners.
 
